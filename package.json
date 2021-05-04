@@ -1,5 +1,5 @@
 {
-  "name": "𠫓𝑅𝐸𝑌𝑍𝐼𝑁𝐻𝑂 𝐷𝑂 𝐻𝑌𝑃𝐸𠫓",
+  "name": "HITCHY 157",
   "version": "3.5",
   "description": "No comment",
   "main": "index.js",
@@ -17,7 +17,7 @@
     "whatsapp",
     "bot"
   ],
-  "author": "𠫓𝑅𝐸𝑌𝑍𝐼𝑁𝐻𝑂 𝐷𝑂 𝐻𝑌𝑃𝐸𠫓",
+  "author": "HITCHY 157",
   "license": "ISC",
   "dependencies": {
     "@adiwajshing/baileys": "^3.4.1",
